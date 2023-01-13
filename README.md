@@ -1,4 +1,4 @@
-### Zindagi Trust
+# Zindagi Trust
 
 - This is a Social work Site to help needy people and develope various things in the country
 - It's mainly frontend focus
@@ -10,7 +10,7 @@
 * Banner
 * Headers
 * Hero Banner
-# The Latest Pages
+#### The Latest Pages
 * News and Events
 * A Review of 2021
 * A Review of 2020
@@ -25,7 +25,7 @@
 `React.js` `TailwindCSS` `Material Tailwind ` `Swiper.Js` `React Carousel` `Slick Carousel` `React Router` `React Hooks`
 
 
-### Contributors
+## Contributors
 
 Thanks to these wonderful people!
 
